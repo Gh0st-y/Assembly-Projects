@@ -1,2 +1,2 @@
 # Assembly-Projects
-A collection of my assembly projects
+A collection of my x86-64 Assembly projects
