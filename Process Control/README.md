@@ -10,3 +10,5 @@ Then just to run
 ``` bash
 ./file_name
 ```
+
+NB! - must have an assembler, like NASM, to compile.
